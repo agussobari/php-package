@@ -1,0 +1,17 @@
+{
+    "name": "ars-crew/ebudget-helpers",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ArsCrew\\EbudgetHelpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agus Sobari",
+            "email": "agussobari.16@gmail.com"
+        }
+    ],
+    "require": {}
+}
