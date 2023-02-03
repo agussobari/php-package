@@ -8,4 +8,9 @@ class Factory
     {
         return 'OK';
     }
+
+    public static function yeaa()
+    {
+        return 'YoYoYo';
+    }
 }
