@@ -13,5 +13,7 @@
             "email": "agussobari.16@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzle/http": "^3.9"
+    }
 }
